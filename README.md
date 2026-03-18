@@ -36,17 +36,45 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier with filter:<img width="473" height="224" alt="Screenshot 2026-03-18 141959" src="https://github.com/user-attachments/assets/d902d26f-c7aa-49ae-88d3-f717a0d38d52" />
+
+<img width="619" height="526" alt="Screenshot 2026-03-18 142945" src="https://github.com/user-attachments/assets/7949b5af-9ae6-4fe4-89ff-8e4f51ffa2e0" />
+
 
 Bridge rectifier with filter:
+<img width="503" height="230" alt="Screenshot 2026-03-18 142053" src="https://github.com/user-attachments/assets/a7db742f-4b8a-44d6-9673-29ac3d55997b" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<img width="577" height="461" alt="Screenshot 2026-03-18 142813" src="https://github.com/user-attachments/assets/2355575a-275f-4c4b-8a21-edbc511edd9b" />
+
+TABULAR COLUMN:
+
+<img width="595" height="270" alt="Screenshot 2026-03-18 142027" src="https://github.com/user-attachments/assets/648fc85a-6249-4aee-b0fd-59d206acaedb" />
+
+halfRectifier without filter
+<img width="586" height="286" alt="Screenshot 2026-03-18 141946" src="https://github.com/user-attachments/assets/d90619f1-d469-4a95-b811-64377a933680" />
+
+<img width="644" height="530" alt="Screenshot 2026-03-18 142858" src="https://github.com/user-attachments/assets/fa5466a1-ce1b-472d-aa8a-616b3eae1960" />
+
+TABULAR COLUMN:
+<img width="603" height="197" alt="Screenshot 2026-03-18 142102" src="https://github.com/user-attachments/assets/1a37930c-247c-494b-9082-097cd8b2adfc" />
+
+fullRectifier without filter
+<img width="503" height="230" alt="Screenshot 2026-03-18 142053" src="https://github.com/user-attachments/assets/32a022cb-5148-44a4-b709-e20ca4341b15" />
+
+<img width="564" height="452" alt="Screenshot 2026-03-18 142739" src="https://github.com/user-attachments/assets/fcd4f0b7-c9ec-4732-8fc8-adef4a2c88c5" />
 
 WAVEFORM:
+<img width="578" height="234" alt="Screenshot 2026-03-18 142033" src="https://github.com/user-attachments/assets/9a2c7788-115d-429e-a88e-3473f453aa9f" />
 
+<img width="647" height="311" alt="Screenshot 2026-03-18 142112" src="https://github.com/user-attachments/assets/8858e546-932a-492d-b42e-4945c5f4577a" />
+
+<img width="1379" height="880" alt="Screenshot 2026-02-11 110614" src="https://github.com/user-attachments/assets/0ea6c96a-8690-4b0f-98db-c67d286b752c" />
+
+<img width="1426" height="632" alt="Screenshot 2026-02-11 110540" src="https://github.com/user-attachments/assets/5c3a0972-8281-444e-904b-605d80aed8a0" />
+
+<img width="1376" height="884" alt="Screenshot 2026-02-11 112636" src="https://github.com/user-attachments/assets/dda7e66d-7f6c-4212-af2d-929a85183f79" />
+
+<img width="1379" height="877" alt="Screenshot 2026-02-11 113610" src="https://github.com/user-attachments/assets/72846b81-1038-4504-ac32-b900c600d871" />
 
 RESULT:
 
